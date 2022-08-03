@@ -1,0 +1,6 @@
+str1=("PFSD")
+tuple=("abcd",286,7,2.23,"cse")
+print(tuple)
+print(tuple[0])
+print(tuple[1:4])
+print(tuple[3: ])
